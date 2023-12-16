@@ -1,0 +1,26 @@
+﻿.a {
+	text-indent: 100px;
+	color: red;
+}
+
+.b {
+	text-indent: 150px;
+	color: green;
+}
+.c {
+	text-indent: 175px;
+}
+article {
+	margin-left: 160px;
+	list-style-type: square;
+	color: orange;
+}
+section {
+	margin-left: 160px;
+	list-style-type: circle;
+}
+
+.d {
+	list-style-type: circle;
+	color: blue;
+}
